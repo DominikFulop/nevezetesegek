@@ -10,3 +10,6 @@ Spanyolország: Sagrada Familia 1882-máig építik
 Spanyolország: Palacio Real 1728-55
 Spanyolország:Salamanca 12. sz
 Spanyolország: Font Magica szökőkútja 1929
+Trogir,1997,Horvátország
+Rovinj,399,Horvátország
+Zágráb,
