@@ -3,13 +3,12 @@ Görögország;Meteorák;XIV. században épült.
 Görögország;A Delphoi színház;2500 évvel korábban.
 Görögország;Knósszosz-i Minoan palota;i. e. 2000-1600 között jött létre.
 Görögország;Korfu Akhilleion, Sissi kastély;magyar királyné építtetett 1890-ben.
-........
-(Szonja)
 Spanyolország: Alhambra 14. sz.
 Spanyolország: Sagrada Familia 1882-máig építik
 Spanyolország: Palacio Real 1728-55
 Spanyolország:Salamanca 12. sz
 Spanyolország: Font Magica szökőkútja 1929
-Trogir,1997,Horvátország
-Rovinj,399,Horvátország
-Zágráb,
+Trogir,1997,Horvátország 20. sz
+Rovinj,399,Horvátország 4. sz
+Zágráb,1879,Horvátország 19.sz
+pitvicei tavak,1998,Horvátorá 20. sz
