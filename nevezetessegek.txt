@@ -8,7 +8,8 @@ Spanyolország: Sagrada Familia 1882-máig építik
 Spanyolország: Palacio Real 1728-55
 Spanyolország:Salamanca 12. sz
 Spanyolország: Font Magica szökőkútja 1929
-Trogir,1997,Horvátország 20. sz
-Rovinj,399,Horvátország 4. sz
-Zágráb,1879,Horvátország 19.sz
-pitvicei tavak,1998,Horvátorá 20. sz
+Horvátország: Trogir,1997, 20. sz
+Horvátország: Rovinj,399, 4. sz
+Horvátország: Zágráb,1879, 19.sz
+Horvátország: pitvicei tavak,1998, 20. sz
+Horvátország: Zadar, 1899 19. sz
